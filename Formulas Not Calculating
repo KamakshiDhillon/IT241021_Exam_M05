@@ -1,0 +1,28 @@
+Q1A_Formulas_Not_Calculating_Questions
+1. Match all opening and closing parentheses in a formula
+2. Enter all required arguments in an Excel function
+3. Do not nest more than 64 functions in a formula
+4. Don't enclose numbers in double quotes
+5. Enter numbers without any formatting
+6. Make sure numbers are not formatted as text values
+7. Separate function arguments with a proper character
+Enclose workbook and worksheet names in single quotes
+Include the full path to a closed workbook
+URL: https://www.ablebits.com/office-addins-blog/excel-formulas-not-working/
+
+
+Q1B_Formulas_Not_Calculating_Questions
+Excel is an incredibly powerful tool for getting meaning out of vast amounts of data. But it also works really well for simple calculations and tracking almost any kind of information. The key for unlocking all that potential is the grid of cells. Cells can contain numbers, text, or formulas. You put data in your cells and group them in rows and columns. That allows you to add up your data, sort and filter it, put it in tables, and build great-looking charts. Let’s go through the basic steps to get you started.
+URL: https://support.microsoft.com/en-us/office/basic-tasks-in-excel-dc775dd1-fa52-430f-9c3c-d998d1735fca
+
+
+Q1C_Formulas_Not_Calculating_Questions
+In 2005, Kodak suffered an $11 million severance error due to Excel typo
+In 2008, Barclays Capital was forced to spend millions on worthless contracts due to Excel reformatting error
+In 2010, MI5 bugged the wrong phones due to a spreadsheet formatting error
+In 2011, AstraZeneca accidentally released confidential information due to an Excel templating error
+In 2012, JP Morgan was hit with $6 billion trading loss due to Excel copy-and-paste error
+URL: https://www.teampay.co/blog/biggest-excel-mistakes-of-all-time
+
+Q1D_Formulas_Not_Calculating_Questions
+According to my perspective, there are no such things which should be further.
